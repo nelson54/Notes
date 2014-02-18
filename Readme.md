@@ -1,5 +1,5 @@
 ### What is Notes
-Notes is a workflow tool for managing my personal notes. Notes are stored in Markdown and accessed via the Web.
+Notes is a tool for managing my notes at work. Notes are stored in Markdown and accessed via the Web.
 
 ### Why Notes
 I take notes on my computer. In the past if I want to carry my notes to a meeting I had to print them, write them on paper, or just not bring them.
