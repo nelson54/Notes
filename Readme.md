@@ -2,7 +2,7 @@
 Notes is a tool for managing my notes at work. Notes are stored in Markdown and accessed via the Web.
 
 ### Why Notes
-I take notes on my computer. In the past if I want to carry my notes to a meeting I had to print them, write them on paper, or just not bring them.
+I take notes on my computer. In the past if I want to carry my notes to a meeting I had to print them, write them on paper, carry my computer, or just not bring them.
 
 I made Notes so I had an easy way to keep my notes with me. Now I just run notes on my computer and open the browser on my iPad and have access to my notes wherever I have the internet.
 
