@@ -16,12 +16,15 @@ If you don't already have grunt-cli installed globally run:
 Install **Notes** dependencies:
 ```npm install```
 
+Make your notes directory:
+```mkdir notes```
+
 Add a markdown file to the ```./notes``` directory:
-```echo "# I am a note" > ./notes/sample.md.```
+```echo "# I am a note" > notes/sample.md```.
 
 Run grunt:
 ```grunt```
 
-Open your browser to ```localhost:9001/notes/``` and click on ```sample.html```.
+Open your browser to ```localhost:9001/notes/``` and click on ```sample.html```
 
 Now if you make changes to ```sample.md``` you can see the changes in your browser automatically.
